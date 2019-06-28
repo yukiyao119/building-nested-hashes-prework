@@ -6,7 +6,8 @@ def fourth_challenge
       :hero => {name: "Romeo", age: "15", status: "alive"},
       :hero_friends => [
         {
-            
+          :name
+          
         },
         {
           
